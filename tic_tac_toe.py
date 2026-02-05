@@ -38,16 +38,16 @@ dark_mode = False
 scores = {"X": 0, "O": 0, "Draw": 0}
 
 # ---------------- LABELS ----------------
-mode_label = tk.Label(root, text="Mode: Player vs AI", font=("Arial", 12))
+mode_label = tk.Label(root, text="Mode: Player vs AI", font=("New Time Roman", 12))
 mode_label.grid(row=0, column=0, columnspan=3)
 
-difficulty_label = tk.Label(root, text="Difficulty: HARD", font=("Arial", 12))
+difficulty_label = tk.Label(root, text="Difficulty: HARD", font=("New Time Roman", 12))
 difficulty_label.grid(row=1, column=0, columnspan=3)
 
-status_label = tk.Label(root, text="Player X's turn", font=("Arial", 14))
+status_label = tk.Label(root, text="Player X's turn", font=("New Time Roman", 14))
 status_label.grid(row=2, column=0, columnspan=3, pady=5)
 
-score_label = tk.Label(root, text="X: 0  O: 0  Draws: 0", font=("Arial", 12))
+score_label = tk.Label(root, text="X: 0  O: 0  Draws: 0", font=("New Time Roman", 12))
 score_label.grid(row=3, column=0, columnspan=3)
 
 # ---------------- GAME LOGIC ----------------
@@ -215,7 +215,7 @@ for r in range(3):
         btn = tk.Button(
             root,
             text="",
-            font=("Arial", 24),
+            font=("New Time Roman", 24),
             width=5,
             height=2,
             bg=current_bg,
