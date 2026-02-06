@@ -29,9 +29,9 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | Jan 26   |  10:15   |   MTC  | had a planning meeting                     |     60      |
 | Jan 26   |  12:00   |   IM   | Set up my github and repository            |     90      |
 | Jan 28   |  10:15   |   TP   | Team  Project work day                     |     60      |
-| Jan 30   |  10:15   |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| Jan 30   |  10:15   |   MTC  | Standup Meeting                            |     60      |
+| Feb 2    |  10:15   |   TP   | Team Project work day & work on slide      |             |
+| Feb 4    |          |        |                                            |             |
 
 _Note: Add more rows as needed._
 
